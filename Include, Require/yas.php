@@ -1,0 +1,2 @@
+<?php
+$text = "hello worcdscsdcsdcdd";
